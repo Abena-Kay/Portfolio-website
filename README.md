@@ -1,4 +1,4 @@
-# Eirenefound Portfolio website by ©faradGraphix.
+# Eirenefound Portfolio website by ©Abena-Kay.
 
 This project was done using HTML, CSS and JS.
 It involves basic programming syntax for the various programming
